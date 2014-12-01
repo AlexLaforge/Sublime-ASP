@@ -31,3 +31,7 @@ Dim test ' ASP comment in Javascript
 ```
 
 With this package, this behavior is fixed so that the comment and subsequent lines will be highlighted correctly.
+
+## Contributors
+
+[danielsd](https://github.com/danielsd) - Fixed syntax highlighting in script tags
